@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}     http://localhost:8080/form.html
+${URL}     http://localhost:8080/assets/form.html
 
 *** Test Cases ***
 Fill Form
